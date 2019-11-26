@@ -1,0 +1,11 @@
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.exe
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.deps.json
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.runtimeconfig.json
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.runtimeconfig.dev.json
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.dll
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\bin\Debug\netcoreapp3.0\Skyfall.pdb
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\obj\Debug\netcoreapp3.0\Skyfall.csprojAssemblyReference.cache
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\obj\Debug\netcoreapp3.0\Skyfall.AssemblyInfoInputs.cache
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\obj\Debug\netcoreapp3.0\Skyfall.AssemblyInfo.cs
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\obj\Debug\netcoreapp3.0\Skyfall.dll
+D:\Data\NerdyStuff\Coding\Skyfall\Skyfall\obj\Debug\netcoreapp3.0\Skyfall.pdb
