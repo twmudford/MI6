@@ -1,5 +1,4 @@
 ﻿using System;
-using Thunderball;
 
 namespace Skyfall
 {
@@ -7,8 +6,7 @@ namespace Skyfall
     {
         public static void Main(string[] args)
         {
-            Console.Write("Civilization Name: ");
-            test change
+            Console.WriteLine("hello world");
         }
     }
 }

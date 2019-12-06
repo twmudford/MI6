@@ -1,0 +1,3 @@
+/Users/tim/Documents/Project/MI6/MI6/obj/Debug/netcoreapp3.1/MI6.csprojAssemblyReference.cache
+/Users/tim/Documents/Project/MI6/MI6/obj/Debug/netcoreapp3.1/MI6.AssemblyInfoInputs.cache
+/Users/tim/Documents/Project/MI6/MI6/obj/Debug/netcoreapp3.1/MI6.AssemblyInfo.cs

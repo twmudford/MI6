@@ -1,12 +1,14 @@
 ﻿using System;
 
+
+//get data from database
 namespace DrNo
 {
-    public class Unit
+    public class Request
     {
-        public Unit()
+        public Request()
         {
-            Console.Write("Hello WOrld");
+            Console.Write("Request");
         }
     }
 }

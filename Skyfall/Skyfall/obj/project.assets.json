@@ -1,37 +1,35 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\tmud9\\.nuget\\packages\\": {}
+    "/Users/tim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\NerdyStuff\\Coding\\MI6\\Skyfall\\Skyfall\\Skyfall.csproj",
+      "projectUniqueName": "/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/Skyfall.csproj",
       "projectName": "Skyfall",
-      "projectPath": "D:\\Data\\NerdyStuff\\Coding\\MI6\\Skyfall\\Skyfall\\Skyfall.csproj",
-      "packagesPath": "C:\\Users\\tmud9\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\NerdyStuff\\Coding\\MI6\\Skyfall\\Skyfall\\obj\\",
+      "projectPath": "/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/Skyfall.csproj",
+      "packagesPath": "/Users/tim/.nuget/packages/",
+      "outputPath": "/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tmud9\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -42,7 +40,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,11 @@
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall.deps.json
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall.runtimeconfig.json
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall.runtimeconfig.dev.json
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall.dll
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/bin/Debug/netcoreapp3.1/Skyfall.pdb
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/Debug/netcoreapp3.1/Skyfall.csprojAssemblyReference.cache
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/Debug/netcoreapp3.1/Skyfall.AssemblyInfoInputs.cache
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/Debug/netcoreapp3.1/Skyfall.AssemblyInfo.cs
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/Debug/netcoreapp3.1/Skyfall.dll
+/Users/tim/Documents/Project/MI6/MI6/Skyfall/Skyfall/obj/Debug/netcoreapp3.1/Skyfall.pdb
