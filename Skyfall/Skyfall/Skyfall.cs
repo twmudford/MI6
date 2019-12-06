@@ -8,10 +8,7 @@ namespace Skyfall
         public static void Main(string[] args)
         {
             Console.Write("Civilization Name: ");
-            string name = Console.ReadLine();
-            Civ tball = new Civ(name);
-            Console.WriteLine(tball.getName());
-            tball.Weakness();
+            test change
         }
     }
 }

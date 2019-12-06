@@ -6,6 +6,8 @@ namespace DrNo
     {
         public Unit()
         {
+            Console.Write("Hello WOrld");
         }
     }
 }
+
